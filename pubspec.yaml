@@ -14,9 +14,17 @@ dependencies:
 
   cupertino_icons: ^1.0.2
   http: ^0.13.4
+  http_parser: ^4.0.0
+  path: ^1.8.0
+  source_span: ^1.8.1
+  test_api: ^0.4.8
+  crypto: ^3.0.1
   oauth2: ^2.0.0
-  url_launcher: ^6.0.20
   github: ^9.0.0
+  fluttericon: ^2.0.0
+  window_to_front: ^0.0.3
+  js: ^0.6.3
+  plugin_platform_interface: ^2.1.2
 
 dev_dependencies:
   flutter_test:
