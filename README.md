@@ -111,7 +111,7 @@ Flutter公式ドキュメントの「Write a Flutter desktop application」を�
 
 良い質問をする方法について調べてissueに反映した
 
-## この一週間で参考にした文献
+## ▼ この一週間で参考にした文献
 
 ### 全体的なもの
 
