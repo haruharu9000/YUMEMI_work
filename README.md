@@ -116,34 +116,43 @@ Flutter公式ドキュメントの「Write a Flutter desktop application」を�
 ### 全体的なもの
 
 Flutter documentation
+
 https://docs.flutter.dev/
 
 2021年 - これからFlutterを始める人へ学習方法のススメ
+
 https://zenn.dev/tsuruo/articles/6cc7b5bf24bb65
 
 GitHub Docs
+
 https://docs.github.com/ja/rest
 
 Write a Flutter desktop application
+
 https://codelabs.developers.google.com/codelabs/flutter-github-client#0
 
 ### Git
 
 今さら聞けない！GitHubの使い方【超初心者向け】
+
 https://techacademy.jp/magazine/6235
 
 GitHubのissue、こう書かれているとめちゃくちゃ嬉しい。良いissueの書き方とは
+
 https://note.com/koushikagawa/n/n500e2f4d4019
 
 .gitignore の書き方。ファイル/ディレクトリの除外
+
 https://www-creators.com/archives/1662
 
 ### API
 
 FlutterでAPIをコールしてデータを表示して見た
+
 https://dev.classmethod.jp/articles/flutter_api_call_1/
 
 REST APIとHTTPメソッドについてまとめてみた
+
 https://qiita.com/blue-yokoyama/items/33dd89e30316d6d207c7
 
 
@@ -151,22 +160,27 @@ https://qiita.com/blue-yokoyama/items/33dd89e30316d6d207c7
 #### YouTube
 
 GitHub API In Flutter! - 25 Days Of Flutter
+
 https://youtu.be/GimSf20Q8lI
 
 Flutter UI Tutorial | Http and Provider - Github Following API
+
 https://youtu.be/VHYvpTwpW-Q
 
 ### Rivepod
 
 Riverpod
+
 https://riverpod.dev/docs/getting_started
 
 Flutter RiverpodでDIをしてテスタビリティを向上させる
+
 https://zuma-lab.com/posts/flutter-search-github-riverpod-di
 
 ### アイデア
 
 第67回　GitHub APIによるチーム開発の効率化 ―基本操作から，GitHub Webhooksの活用まで（1）
+
 https://qr.paps.jp/uykwD
 
 (長いので短縮URLに変換しています)
@@ -174,4 +188,5 @@ https://qr.paps.jp/uykwD
 ### モチベーション
 
 Flutterを大好きになってしまうカラクリ
+
 https://zenn.dev/sugitlab/articles/d0b3858b300b0af64ed9
