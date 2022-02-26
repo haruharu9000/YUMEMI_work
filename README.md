@@ -157,7 +157,7 @@ https://qiita.com/blue-yokoyama/items/33dd89e30316d6d207c7
 
 
 
-#### YouTube
+#### 以下、YouTubeへのURLになります
 
 GitHub API In Flutter! - 25 Days Of Flutter
 
