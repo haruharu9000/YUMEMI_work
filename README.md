@@ -1,18 +1,17 @@
-# yumemiwork
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # YUMEMI_work
-# YUMEMI_work
+
+## ▼ 考えたこと
+なぜ、Flutterを使ってGitHubのリポジトリを検索するのか？
+これを使うユーザーはどんな人物でどのような背景でこの機能が欲しいと思うだろう？
+もし、自分がその人物の視点から見たらどんな機能が欲しいか？
+
+## ▼ 自分なりに追加したかった機能
+Windows・MacOS・Linuxへのデスクトップアプリケーションの対応
+
+追加する目的
+・その時持っているデバイスを問わずリポジトリを検索するため
+
+## ▼ その他
+WHAT ＝ 目的は何か？　目指すべき姿
+WHY ＝ それはなぜ大事か？　目指すべき理由
+HOW ＝ どうやってやるのか？　目指すための手段
